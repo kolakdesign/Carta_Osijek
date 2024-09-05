@@ -953,9 +953,9 @@ var APP_DATA = {
   ],
   "name": "Carta_Osijek",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "deviceOrientationEnabled": true,
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": false
   }
